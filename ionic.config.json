@@ -1,0 +1,7 @@
+{
+  "name": "naklibeta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
