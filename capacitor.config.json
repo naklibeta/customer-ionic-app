@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "naklibeta",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "com.naklibeta.customerapp",
+  "appName": "naklibeta",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }

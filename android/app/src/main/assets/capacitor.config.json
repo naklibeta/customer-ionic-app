@@ -1,0 +1,6 @@
+{
+	"appId": "com.naklibeta.customerapp",
+	"appName": "naklibeta",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
